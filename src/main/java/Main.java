@@ -28,7 +28,7 @@ public class Main {
                 new javax.mail.Authenticator() {
                     protected PasswordAuthentication getPasswordAuthentication() {
                         return new PasswordAuthentication(
-                                "mr.botmcbotstein@gmail.com", "Marchmarch15");
+                                "mr.botmcbotstein@gmail.com", "**********");
                     }
                 });
 
